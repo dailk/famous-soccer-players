@@ -3,9 +3,18 @@ h1 {
 }
 
 body {
-    background-image: url ("upfeathers.png")
+    background-image: url("upfeathers.png");
 }
 
 .pic {
-    width: 500px;
+    width: 200px;
 }
+
+div{
+  font-family: Arial; border: 5px solid green; padding:10px;
+}
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
