@@ -10,11 +10,49 @@ body {
     width: 200px;
 }
 
-div{
-  font-family: Arial; border: 5px solid green; padding:10px;
-}
 .container {
   width: 960px;
   margin: 0 auto;
+  font-family: Arial;
+  border: 5px solid green; 
+  padding:10px;
 }
 
+.pic-2 {
+  width: 200px;
+}
+
+.soccer-font {
+  font-family: Arial; color: green;
+}
+
+.player {
+  font-family: Arial; padding:10px; text-align: center;
+}
+
+nav a {
+  color: red;
+  text-decoration: 900px;
+}
+p span{
+  color: red;
+  text-decoration: overline;
+}
+
+.active {
+  color:orange; font-weight: bolder  
+}
+
+table {
+  border-collapse: collapse; border: 1px solid black;
+}
+
+th, td {
+  border: 3px solid;
+}
+nav a:active {
+  color: grey;
+}
+nav li {
+  display: inline;
+}
