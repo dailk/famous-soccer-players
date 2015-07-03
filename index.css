@@ -3,7 +3,8 @@ h1 {
 }
 
 body {
-    background-image: url("upfeathers.png");
+    background-image: url("http://sabisathletics.net/wp-content/uploads/2013/08/soccer-ball.jpg") ;
+    background-size: cover;
 }
 
 .pic {
@@ -53,6 +54,39 @@ th, td {
 nav a:active {
   color: grey;
 }
-nav li {
+ul li {
   display: inline;
+}
+.nav {
+  text-align:center;
+  width:95%;
+}
+.european {
+  text-align: center;
+}
+.iframe {
+   text-align: center;
+}
+.wholevid {
+  text-align:center;
+}
+
+.baggio {
+  border: 5px solid red;
+  width:560px;
+  height: 315px;
+  margin: 0 auto;
+}
+.dempseyvid {
+border: 5px solid blue;
+  width:560px;
+  height: 315px;
+  margin: 0 auto;
+}
+
+.messivid {
+  border: 5px solid skyblue;
+  width:560px;
+  height: 315px;
+  margin: 0 auto;
 }
