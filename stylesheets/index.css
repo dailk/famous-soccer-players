@@ -1,0 +1,138 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-image: url("http://sabisathletics.net/wp-content/uploads/2013/08/soccer-ball.jpg") ;
+    background-size: cover; 
+}
+
+.pic {
+    width: 200px;
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+  font-family: Arial;
+  border: 5px solid green; 
+  padding:10px;
+  background: rgba(0, 128, 0, 0.5);
+}
+
+.pic-2 {
+  width: 200px;
+}
+
+.soccer-font {
+  font-family: Arial; color: yellow;
+}
+
+.player {
+  font-family: Arial; 
+  padding:10px;
+  text-align: center; 
+  color:white;
+}
+.player :hover {
+  color: red;
+}
+
+nav a {
+  color: red;
+  text-decoration: 900px;
+}
+.pages {
+  text-align: center;
+}
+p span{
+  color: red;
+  text-decoration: overline;
+}
+
+.active {
+  color:orange; font-weight: bolder  
+}
+
+table {
+  border-collapse: collapse; border: 1px solid black;
+}
+
+th, td {
+  border: 3px solid;
+}
+nav a:active {
+  color: grey;
+}
+ul li {
+  display: block;
+}
+
+ol li {
+  display: inline;
+}
+.nav {
+  text-align:center;
+}
+.european {
+  text-align: center;
+}
+.iframe {
+   text-align: center;
+}
+.wholevid {
+  text-align:center;
+}
+
+.baggio {
+  border: 5px solid red;
+}
+.dempseyvid {
+border: 5px solid blue;
+}
+
+.messivid {
+  border: 5px solid skyblue;
+}
+
+.raulvid {
+  border: 5px solid yellow;
+}
+
+.xavivid {
+  border: 5px solid yellow;
+}
+
+.pelevid {
+  border: 5px solid yellow;
+  width:420px;
+  height:315px;
+  
+}
+
+p {
+  margin-bottom: 20px;
+  color:white;
+}
+body {
+  width: 960px;
+  margin: 0px auto;
+}
+table {
+  background-color: silver;
+}
+
+.allvids {
+  width:560px;
+  height: 315px;
+  margin: 0 auto;
+}
+
+a {
+ text-decoration: none;
+ color:yellow;
+}
+.eu-players {
+  font-size: 120%;
+  font-weight: bold;
+}
