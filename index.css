@@ -4,7 +4,9 @@ h1 {
 
 body {
     background-image: url("http://sabisathletics.net/wp-content/uploads/2013/08/soccer-ball.jpg") ;
-    background-size: cover;
+    background-size: cover; 
+    color:orange;
+    background
 }
 
 .pic {
@@ -87,6 +89,27 @@ border: 5px solid blue;
 .messivid {
   border: 5px solid skyblue;
   width:560px;
+  height: 315px;
+  margin: 0 auto;
+}
+
+.raulvid {
+  border: 5px solid yellow;
+  width:560px;
+  height: 315px;
+  margin: 0 auto;
+}
+
+.xavivid {
+  border: 5px solid yellow;
+  width:560px;
+  height: 315px;
+  margin: 0 auto;
+}
+
+.pelevid {
+  border: 5px solid yellow;
+  width:420px;
   height: 315px;
   margin: 0 auto;
 }
