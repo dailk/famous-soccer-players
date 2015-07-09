@@ -11,11 +11,14 @@ body {
 .pic {
     width: 200px;
 }
-
+p {
+  margin-bottom: 50px;
+}
 .container {
   width: 960px;
   margin: 0 auto;
   font-family: Arial;
+  font-size: 150%;
   border: 5px solid green; 
   padding:10px;
   background: rgba(0, 128, 0, 0.5);
