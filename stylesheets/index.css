@@ -8,6 +8,11 @@ body {
     background-repeat:no-repeat;
 }
 
+@media screen and (max-width: 300px) {
+    body {
+        background-color: green;
+    }
+}
 .pic {
     width: 200px;
 }
