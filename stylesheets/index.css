@@ -34,14 +34,28 @@ p {
   font-size: 50px;
 }
 
-.player {
+.players {
   font-family: Arial; 
   padding:10px;
   text-align: center; 
   color:white;
 }
-.player:hover {
-  color: blue;
+
+.players a:hover {
+  color:blue;
+}
+
+.player {
+  font-family: Arial; 
+  padding:10px;
+  text-align: center; 
+  color:white;
+  font-size:125%;
+  
+}
+
+.player a:hover {
+  color:blue;
 }
 
 nav a {
@@ -77,44 +91,11 @@ ul li {
 ol li {
   display: inline;
 }
-.nav {
-  text-align:center;
-}
+
 .european {
   text-align: center;
 }
-.iframe {
-   text-align: center;
-}
-.wholevid {
-  text-align:center;
-}
 
-.baggio {
-  border: 5px solid red;
-}
-.dempseyvid {
-border: 5px solid blue;
-}
-
-.messivid {
-  border: 5px solid skyblue;
-}
-
-.raulvid {
-  border: 5px solid yellow;
-}
-
-.xavivid {
-  border: 5px solid yellow;
-}
-
-.pelevid {
-  border: 5px solid yellow;
-  width:420px;
-  height:315px;
-  
-}
 
 p {
   margin-bottom: 20px;

@@ -9,9 +9,9 @@ body {
     height:100%;
 }
 
-#wrapper {
-  min-height: 100%;
-  position:relative;
+header {
+  border-bottom: 5px solid black;
+  padding-bottom: 20px;
 }
 
 .container {
@@ -69,8 +69,16 @@ ol li {
 .iframe {
    text-align: center;
 }
-.wholevid {
-  text-align:center;
+
+section.videos article {
+  
+  width:560px;
+  height: 315px;
+  margin: 60px auto;
+}
+
+section.videos article iframe {
+  border: 5px solid red;
 }
 
 .baggio {
@@ -78,7 +86,6 @@ ol li {
 }
 .dempseyvid {
 border: 5px solid blue; 
-float:left;
 }
 
 .messivid {
@@ -87,16 +94,17 @@ float:left;
 
 .raulvid {
   border: 5px solid yellow;
+
 }
 
 .xavivid {
   border: 5px solid yellow;
+
 }
 
 .pelevid {
   border: 5px solid yellow;
-  width:420px;
-  height:315px;
+
   
 }
 
@@ -105,17 +113,11 @@ p {
   color:white;
 }
 body {
-  width: 960px;
+  width: 1217px;
   margin: 0px auto;
 }
 table {
   background-color: silver;
-}
-
-.allvids {
-  width:560px;
-  height: 315px;
-  margin: 0 auto;
 }
 
 a {
@@ -165,7 +167,7 @@ a {
 }
 
 .soccer-ball {
-  height:50px;
-  position:fixed;
-  left:10px;
+  height: 50px;
+  position: fixed;
+  left: 10px;
 }
