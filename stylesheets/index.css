@@ -8,9 +8,9 @@ body {
     background-repeat:no-repeat;
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 150px) {
     body {
-        background-color: green;
+        background-color: orange;
     }
 }
 .pic {
