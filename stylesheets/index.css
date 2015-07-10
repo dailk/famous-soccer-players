@@ -10,7 +10,7 @@ body {
 
 @media all and (max-width: 500px) {
     body {
-        background-color: orange;
+        background-color: #33CC33;
     }
 }
 .pic {
