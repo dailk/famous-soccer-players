@@ -1,23 +1,6 @@
-h1 {
-    text-align: center;
-}
-
 body {
-    background-image: url("http://sabisathletics.net/wp-content/uploads/2013/08/soccer-ball.jpg") ;
     background-size:cover;
     background-repeat:no-repeat;
-}
-
-@media all and (max-width: 500px) {
-    body {
-        background-color: #33CC33;
-    }
-}
-.pic {
-    width: 200px;
-}
-p {
-  margin-bottom: 50px;
 }
 .container {
   width: 960px;
@@ -33,50 +16,34 @@ p {
   width: 200px;
 }
 
-.soccer-font {
-  font-family: Arial; 
-  color: yellow; 
-  font-size: 50px;
-}
 
-.players {
+.players{
+    text-align: center; 
+}
+.players li a{
   font-family: Arial; 
   padding:10px;
-  text-align: center; 
-  color:white;
+  color:red;
 }
 
 .players a:hover {
   color:blue;
 }
 
-.player {
+.player li{
   font-family: Arial; 
-  padding:10px;
-  text-align: center; 
+  text-align:center; 
   color:white;
   font-size:125%;
-  
+  margin:10px;
 }
 
 .player a:hover {
   color:blue;
 }
-
-nav a {
-  color: red;
-  text-decoration: 900px;
-}
-.pages {
-  text-align: center;
-}
 p span{
   color: red;
   text-decoration: overline;
-}
-
-.active {
-  color:orange; font-weight: bolder  
 }
 
 table {
@@ -85,9 +52,6 @@ table {
 
 th, td {
   border: 3px solid;
-}
-nav a:active {
-  color: grey;
 }
 ul li {
   display: block;
@@ -102,14 +66,6 @@ ol li {
 }
 
 
-p {
-  margin-bottom: 20px;
-  color:white;
-}
-body {
-  width: 960px;
-  margin: 0px auto;
-}
 table {
   background-color: silver;
 }
@@ -120,14 +76,6 @@ table {
   margin: 0 auto;
 }
 
-a {
- text-decoration: none;
- color:yellow;
-}
-.eu-players {
-  font-size: 120%;
-  font-weight: bold;
-}
 
 .fireworks {
   width:100%;
