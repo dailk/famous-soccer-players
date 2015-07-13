@@ -34,8 +34,8 @@ p {
   color:white;
 }
 @media all and (max-width: 500px) {
-    body {
-        background-color: #33CC33;
-    }
-    font-size:2em
+  body {
+      background-color: #33CC33;
+      font-size: 2em;
+  }
 }
