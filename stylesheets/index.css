@@ -1,120 +1,25 @@
-body {
-    background-size:cover;
-    background-repeat:no-repeat;
-}
-.container {
-  width: 960px;
-  margin: 0 auto;
-  font-family: Arial;
-  font-size: 150%;
-  border: 5px solid green; 
-  padding:10px;
-  background: rgba(0, 128, 0, 0.5);
-}
-
-.pic-2 {
-  width: 200px;
-}
-
-
-.players{
-    text-align: center; 
-}
-.players li a{
-  font-family: Arial; 
-  padding:10px;
-  color:red;
-}
-
-.players a:hover {
-  color:blue;
-}
-
-.player li{
-  font-family: Arial; 
-  text-align:center; 
-  color:white;
-  font-size:125%;
-  margin:10px;
-}
-
-.player a:hover {
-  color:blue;
-}
-p span{
-  color: red;
-  text-decoration: overline;
-}
-
-table {
-  border-collapse: collapse; border: 1px solid black;
-}
-
-th, td {
-  border: 3px solid;
-}
 ul li {
-  display: block;
-}
-
-ol li {
   display: inline;
+  text-decoration: none;
 }
 
-.european {
+
+h1 {
   text-align: center;
-}
-
-
-table {
-  background-color: silver;
-}
-
-.allvids {
-  width:560px;
-  height: 315px;
-  margin: 0 auto;
-}
-
-
-.fireworks {
-  width:100%;
-  text-align:center;
-}
-
-.ns-american {
-  text-align: center;
-  color: white;
-  font-weight:bold;
-}
-
-.name {
-  font-weight:bold;
-}
-
-.nacogdoches:hover {
-  color: blue; 
-}
-
-.bottom 
-{
-   top: 0px;
-   margin:0px auto;  
-   padding: 0px 2px 2px 3px;    
-   border-bottom: 10px white solid;
-   width: 100%;
-}
-
-.video-font {
-  font-size:50px;
-  font-family:Arial;
+  text-shadow: 2px 2px 8px #FF0000;
   color: yellow;
 }
 
-.websites {
-  text-align:center;
+
+h2 {
+  text-align: center;
+  margin-bottom: 15px;
 }
 
-.soccer-font {
-  border-bottom:1px solid black;
+.messi {
+  clear:both;
+}
+
+#pelefix{
+    clear:right;
 }
