@@ -16,6 +16,18 @@ h2 {
   margin-bottom: 15px;
 }
 
+.img {
+  height: 150px;
+  width: 250px;
+  margin-right: 10px;
+  margin-bottom:20px;
+  float:right;
+}
+article{
+  margin-bottom:60px;
+}
+
+
 .messi {
   clear:both;
 }
