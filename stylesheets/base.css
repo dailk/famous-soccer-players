@@ -1,8 +1,22 @@
-@media all and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
   body {
       background-color: #33CC33;
       font-size: 2em;
   }
+  .soccer-ball {
+    display:none;
+  }
+  
+  .btt {
+    display:none;
+  }
+  
+  .summary {
+    height:100%!important;
+    width:600px;
+  }
+  
+  
 }
 
 h1 {
