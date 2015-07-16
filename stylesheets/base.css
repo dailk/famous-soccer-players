@@ -109,7 +109,7 @@ article{
   }
   
   .summary {
-    height:100%!important;
+    height:100%;
     width:600px;
   }
 }
